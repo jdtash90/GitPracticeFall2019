@@ -4,3 +4,5 @@ Audi R8
 Tesla
 Mercedes
 Honda Civic
+Subaru
+Toyota Camry
