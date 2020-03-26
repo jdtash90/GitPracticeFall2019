@@ -5,3 +5,4 @@ BMW X6
 Audi R8
 Tesla
 Kia Optima
+Subaru
