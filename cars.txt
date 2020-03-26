@@ -2,3 +2,6 @@
 Toyota corolla
 BMW 3
 BMW X6
+Audi R8
+Tesla
+Kia Optima
