@@ -1,4 +1,4 @@
-package day1;
+package tests;
 
 public class LoopPractice {
     public static void main(String[] args) {
